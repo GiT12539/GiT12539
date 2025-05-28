@@ -1,3 +1,16 @@
+
+<h1 align="center">👋 Hello, I'm Ameer</h1>
+<h3 align="center">Aspiring SOC Analyst | Blue Team Enthusiast | Threat Hunter in Training</h3>
+
+---
+🛡️ **About Me**
+- 🎓 Currently studying cybersecurity Certificate IV  
+- 🧠 Learning SIEM tools, packet analysis, and automation using Python 
+- 🛠️ Building home labs to simulate real-world attacks and defenses  
+- 📌 Passionate about defending systems, hunting threats, and responding to incidents  
+
+---
+
 ## Hi there 👋
 
 <!--
